@@ -1,0 +1,7 @@
+GenUpdate.cmd
+debug.log
+GenUpdateNoReload.cmd
+GenUpdateWithOutEncrpt.cmd
+GenUpdateWithOutEncrptNoReload.cmd
+/frameworks
+versionupdate.py
